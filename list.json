@@ -1,0 +1,87 @@
+{
+
+    "grocery":[
+{
+    "Serial":"1",
+    "Name":"Potato",
+    "Quantity":"1",
+    "Unit":"Kg",
+    "Department":"Vegetable",
+    "Notes":"Fresh"
+},
+{
+    "Serial":"2",
+    "Name":"Carrot",
+    "Quantity":".5",
+    "Unit":"Kg",
+    "Department":"Vegetables",
+    "Notes":"Fresh"
+},
+{
+    "Serial":"3",
+    "Name":"Milk",
+    "Quantity":"2",
+    "Unit":"packet",
+    "Department":"Dairy products",
+    "Notes":"Milma"
+},
+{
+    "Serial":"4",
+    "Name":"Prinkles",
+    "Quantity":"2",
+    "Unit":"Packet",
+    "Department":"Snaks",
+    "Notes":"Hot & Spicy Flavour"
+},
+{
+    "Serial":"5",
+    "Name":"Sugar",
+    "Quantity":"1",
+    "Unit":"Kg",
+    "Department":"Essential",
+    "Notes":"Crystal"
+},
+{
+    "Serial":"6",
+    "Name":"Bathing Soap",
+    "Quantity":"2",
+    "Unit":"No.",
+    "Department":"Health & Beauty",
+    "Notes":"1 LUX & 1 Dettol"
+},
+{
+    "Serial":"7",
+    "Name":"Butter",
+    "Quantity":"2",
+    "Unit":"Packets",
+    "Department":"Diary Products",
+    "Notes":"1 Salted & 1 Unsalted"
+},
+{
+    "Serial":"8",
+    "Name":"Chicken",
+    "Quantity":"2",
+    "Unit":"Kg",
+    "Department":"Meat & Fish",
+    "Notes":"Fresh"
+},
+{
+    "Serial":"9",
+    "Name":"Cooking Oil",
+    "Quantity":"1",
+    "Unit":"ltr",
+    "Department":"Essentials",
+    "Notes":"Sunflower"
+},
+{
+    "Serial":"10",
+    "Name":"Rice",
+    "Quantity":"5",
+    "Unit":"Kg",
+    "Department":"Essentials",
+    "Notes":"Matta Rice"
+}
+    ]
+
+
+}
